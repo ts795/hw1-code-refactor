@@ -101,19 +101,22 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h2 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 19px;
 }
 
-.benefit-brand h3 {
+.benefit-brand h2 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 19px;
 }
 
-.benefit-cost h3 {
+.benefit-cost h2 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 19px;
 }
 
 .benefit-lead img {
