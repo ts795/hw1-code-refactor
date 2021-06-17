@@ -1,6 +1,11 @@
 # Homework 1 Code Refactor
 This project is a refactoring of the Horiseon web page for homework 1. The web page was refactored to follow accessibility standards so that it is optimized for search engines. To achieve this semantic HTML elements such as header, nav, section, main, aside and footer were added. Also, alt attributes were added to images.
 
+## Site Picture
+![Site](site1.jpg)
+![Site](site2.jpg)
+![Site](site3.jpg)
+
 ## Getting Started
 
 To view and edit the HTML and CSS you can clone the repo from github using the following command:
