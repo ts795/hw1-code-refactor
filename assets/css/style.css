@@ -111,6 +111,8 @@ p {
 .benefit-section h2 {
     margin-bottom: 10px;
     text-align: center;
+    /* Set the font size so the aside and main areas are the same height */
+    font-size: 19px;
 }
 
 /* Styling for images in the benefit sections */
